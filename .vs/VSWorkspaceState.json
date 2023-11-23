@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\API",
+    "\\Aplication",
+    "\\Domain",
+    "\\Domain\\Entities"
+  ],
+  "SelectedNode": "\\Domain\\Entities\\Pedido.cs",
+  "PreviewInSolutionExplorer": false
+}
